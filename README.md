@@ -1,5 +1,4 @@
 # CelineSheet
-[CelineSheet.md](https://github.com/user-attachments/files/23055098/CelineSheet.md)
 # CelineSheet 1.0 — 사용 설명서 (ReadMe)
 
 **버전**: 1.0.0  
